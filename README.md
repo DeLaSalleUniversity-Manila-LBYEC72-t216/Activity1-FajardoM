@@ -1,6 +1,6 @@
 # Activity1-FajardoM
 
-'''
+```
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -21,11 +21,11 @@ int main(){
 	return 0;
 	
 }
-'''
+```
 
 ![](TriangleArea.png)
 
-'''
+```
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -44,11 +44,11 @@ int main(){
 	return 0;
 	
 }
-'''
+```
 
 ![](BirthYear.png)
 
-'''
+```
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -66,6 +66,7 @@ int main(){
 	return 0;
 	
 }
-'''
+```
 
 ![](f(x).png)
+
