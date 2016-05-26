@@ -23,7 +23,7 @@ int main(){
 }
 ```
 
-![](TriangleArea.png)
+![](TriangleArea.PNG)
 
 ```
 #include <stdio.h>
@@ -46,7 +46,7 @@ int main(){
 }
 ```
 
-![](BirthYear.png)
+![](BirthYear.PNG)
 
 ```
 #include <stdio.h>
@@ -68,5 +68,5 @@ int main(){
 }
 ```
 
-![](f(x).png)
+![](f(x).PNG)
 
