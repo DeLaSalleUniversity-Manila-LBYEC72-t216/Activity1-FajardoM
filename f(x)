@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+
+int main(){
+	int x, fx;
+	
+	printf("Enter x: ");
+	scanf("%d",&x);
+	
+	fx=(x/70);
+	printf("\nThe value of f(x) is: %d\n\n",fx);
+	
+	system("PAUSE");
+	return 0;
+	
+}
